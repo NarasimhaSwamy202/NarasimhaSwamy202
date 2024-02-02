@@ -1,3 +1,5 @@
+
+![Profile Views](https://komarev.com/ghpvc/?username=NarasimhaSwamy202&color=brightgreen)
 <h1 align="center" color="cyan">Narasimha Swamy S R</h1><br>
 
 <p align="center">
@@ -17,8 +19,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">
 <a href="https://www.linkedin.com/in/narasimha-swamy-s-r-43b05a24b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Narasimha Swamy S R" height="30" width="40" /></a> 
 </h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=NarasimhaSwamy202&color=brightgreen)
 
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
