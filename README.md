@@ -8,6 +8,7 @@
    &bull; 🌱 I’m currently learning       :- DataScience,ML,AI
    &bull; 👯 I’m looking to collaborate on:- Applied AI projects
    &bull; 💬 Ask me about                 :- Machine Learning
+  &bull; ⚡ 3 SQL databases walked into a NoSQL bar. A little while later they walked out, because they couldn’t find a table 😎 
  </pre>
 
 <!---
