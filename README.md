@@ -4,9 +4,9 @@
 
 <p align="center">
   <pre color="teal">
-   &bull; 👀 I’m interested in            :- AI
+   &bull; 👀 I’m interested in            :- AI,DataScience
    &bull; 🌱 I’m currently learning       :- DataScience,ML,AI
-   &bull; 👯 I’m looking to collaborate on:- Applied AI projects
+   &bull; 👯 I’m looking to collaborate on:- Applied AI-ML projects
    &bull; 💬 Ask me about                 :- Machine Learning
   &bull; ⚡ Fun fact: 3 SQL databases walked into a NoSQL bar. A little while later they walked out, because they couldn’t find a table 😎 
  </pre>
